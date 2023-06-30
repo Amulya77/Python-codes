@@ -1,7 +1,8 @@
 '''Cipher with the ascii values'''
 
 
-
+import art
+print(art.logo)
 while True:
     nc = input("Type 'encode' to encrypt, 'decode' to decrypt: ")
 
