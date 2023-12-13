@@ -7,3 +7,7 @@
 Sign Up
 get personal **API** Key
 Use it in the Python code
+
+I have provided two codes 
+Normal Weather telling code
+GUI weather telling code
